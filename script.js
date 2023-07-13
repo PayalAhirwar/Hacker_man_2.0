@@ -9,7 +9,7 @@ let p1 = async () => {
 let p2 = async () => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
-      resolve("Hacking Pooja's username....");
+      resolve("Hacking Poonam's username....");
     }, 2000);
   });
 };
@@ -17,7 +17,7 @@ let p2 = async () => {
 let p3 = async () => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
-      resolve("Username found poojaahirwar5982....");
+      resolve("Username found its_lakshita2468....");
     }, 1000);
   });
 };
